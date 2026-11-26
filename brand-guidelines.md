@@ -1,4 +1,4 @@
-# INEMA – Brand Guidelines
+# ARCKHÉ – Brand Guidelines
 
 ## Identidade Visual
 - Estilo: tecnológico, educacional, premium

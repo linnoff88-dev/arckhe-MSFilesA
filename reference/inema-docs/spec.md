@@ -1,4 +1,4 @@
-# Especificaçêo de Documentos – INEMA
+# Especificaçêo de Documentos – ARCKHÉ
 
 Criar automaticamente:
 - Word institucional (2 páginas)

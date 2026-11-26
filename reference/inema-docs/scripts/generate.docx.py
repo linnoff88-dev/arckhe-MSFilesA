@@ -1,1 +1,1 @@
-print("Gerador Word - INEMA")
+print("Gerador Word - ARCKHÉ")

@@ -67,7 +67,7 @@ MSFilesA/
 
 ## Suporte
 
-Para reportar problemas: https://github.com/inematds/MSFilesA/issues
+Para reportar problemas: https://github.com/linnoff88-dev/MSFilesA/issues
 
 ---
 

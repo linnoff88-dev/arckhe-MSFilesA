@@ -1,8 +1,8 @@
 @echo off
-echo Criando estrutura do projeto INEMA...
+echo Criando estrutura do projeto ARCKHÉ...
 
-mkdir inema-docs
-cd inema-docs
+mkdir ARCKHÉ-docs
+cd ARCKHÉ-docs
 
 mkdir assets
 mkdir scripts

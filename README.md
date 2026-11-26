@@ -1,4 +1,4 @@
-﻿# MSFilesA
+# MSFilesA
 
 Projeto de skills do Claude Code para criacao de documentos (Word, Excel, PowerPoint e PDF).
 
@@ -71,4 +71,4 @@ Para reportar problemas: https://github.com/inematds/MSFilesA/issues
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe

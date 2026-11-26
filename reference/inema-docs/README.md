@@ -1,4 +1,4 @@
-# INEMA – Automação de Documentos
+# INEMA – Automaçêo de Documentos
 
-Projeto para geração automática de Word, Excel, PowerPoint e PDF
+Projeto para geraçêo automática de Word, Excel, PowerPoint e PDF
 usando IA + código.

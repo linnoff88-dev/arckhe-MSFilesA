@@ -1,4 +1,4 @@
-# Especificação de Documentos – INEMA
+# Especificaçêo de Documentos – INEMA
 
 Criar automaticamente:
 - Word institucional (2 páginas)
